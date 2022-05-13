@@ -18,27 +18,21 @@ We're going to approach the development of the application holistically. Each of
 ### Backend
 
 - **DEPLOYMENT** (Alvin):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/13)
 
 - **AUTHENTICATION && AUTHORIZATION** (Alvin):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/12)
 
 - **DATA MANIPULATION && ANALYSIS** (Akshay):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/11)
 
 - **DATA STORAGE** (Jagroop):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/10)
 
 ### Frontend
 
 - **USER INTERFACE** (Raadwan && Akshay):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/9)
 
 - **DATA UPLOAD && MANAGEMENT** (Raadwan):
-
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/8)
