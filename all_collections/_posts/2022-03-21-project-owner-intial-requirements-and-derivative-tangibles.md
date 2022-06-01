@@ -8,13 +8,16 @@ categories: [drain-gang, neuroscience, project update]
     - Project workflow diagram
     - Project workflow presentation with in-depth explanations on what technologies will be used and how
 - **Landing page should be easy to navigate for clients**
-    - Landing page should be completed with navbar and *responsive* objects
+    - Landing page should be completed with navbar and easy-to-use interface
 - **Data security is a priority, there should be authentication methods available for use**
-    - Robust login system with email verification
+    - Robust login system with 
         - Login page
-        - Email verification technology
-        - `noSQL` database usage (mongo, firebase, etc.)
-        - ~~session cookies~~ `JWT tokens` for authorization
+        - database usage 
+        - `JWT tokens` for authorization
+        - Protected pages, should not be able to view data without being logged in
+    - Data Management
+        - Upload/Download data
+        - Download manipulated data
 - **Data must be effeciently sorted and analyzed**
     - Java to dispatch Python jobs
         - use python libraries such as `pandas`
