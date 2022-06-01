@@ -15,24 +15,20 @@ We're going to approach the development of the application holistically. Each of
 
 ## Project Roadmap
 
-### Backend
-
-- **DEPLOYMENT** (Alvin):
+- **DEPLOYMENT**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/13)
 
-- **AUTHENTICATION && AUTHORIZATION** (Alvin):
+- **AUTHENTICATION && AUTHORIZATION**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/12)
 
-- **DATA MANIPULATION && ANALYSIS** (Akshay):
+- **DATA MANIPULATION && ANALYSIS**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/11)
 
-- **DATA STORAGE** (Jagroop):
+- **DATA STORAGE**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/10)
 
-### Frontend
-
-- **USER INTERFACE** (Raadwan && Akshay):
+- **USER INTERFACE**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/9)
 
-- **DATA UPLOAD && MANAGEMENT** (Raadwan):
+- **DATA UPLOAD && MANAGEMENT**:
   - [Ticket Link](https://github.com/raad1masum/Drain-Gang/issues/8)
