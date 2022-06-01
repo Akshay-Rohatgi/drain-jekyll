@@ -2,7 +2,7 @@
 layout: post
 title: Project Owner initial requirements and derivative tangibles
 date: 2022-03-21 10:18:00
-categories: [drain-gang, neuroscience, project update]
+categories: [drain-gang, grades, project update]
 ---
 - **Proposed project workflow must be completed (include technologies to be used)**
     - Project workflow diagram
