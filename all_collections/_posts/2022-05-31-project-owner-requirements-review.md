@@ -2,7 +2,7 @@
 layout: post
 title: Project Owner requirement review
 date: 2022-05-31 10:18:00
-categories: [drain-gang, neuroscience, project update]
+categories: [drain-gang, project update, drain distributions, project delivery]
 ---
 - **Proposed project workflow must be completed (include technologies to be used)**
     - Project workflow diagram ✔️ 
